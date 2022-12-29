@@ -5,7 +5,7 @@ This project is created by React JS and tailwind CSS  with functionality of pagi
 
 ## Live Demo
 
-[Movie Website Live](movie-website-iamthakurnikhil.netlify.app)
+[Movie Website Live](https://movie-website-iamthakurnikhil.netlify.app/)
 
 
 ## Screenshots
@@ -15,19 +15,19 @@ This project is created by React JS and tailwind CSS  with functionality of pagi
 ![App Screenshot](./src/assests/Screenshot%20(10).png)
 
 
-<!-- 
+
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/iamthakurnikhil/skincare.git
+  git clone https://github.com/iamthakurnikhil/movie-website.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd skincare
+  cd movie-website
 ```
 
 Install dependencies
@@ -39,5 +39,5 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
-``` -->
+  npm start
+```
