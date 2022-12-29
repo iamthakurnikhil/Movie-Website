@@ -3,6 +3,10 @@
 
 This project is created by React JS and tailwind CSS  with functionality of pagination, react-router-dom and filter movies on basis of categories.
 
+## Live Demo
+
+[Movie Website Live](movie-website-iamthakurnikhil.netlify.app)
+
 
 ## Screenshots
 
